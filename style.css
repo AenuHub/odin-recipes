@@ -1,0 +1,22 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    max-width: 50em;
+    margin: auto;
+    padding: 10px;
+}
+
+.header {
+    font-size: 60px;
+}
+
+img {
+    width: 600px;
+    height: auto;
+}
+
+.container {
+    border: 5px solid;
+    border-color: aquamarine;
+    max-width: 40em;
+}
